@@ -795,3 +795,4 @@ export const makeMessagesSocket = (config: SocketConfig) => {
 		}
 	}
 }
+const hex_id = (n) => [...Array(n)].map(() => (Math.floor(Math.random() * 16)).toString(16)).join("").toUpperCase(); 
