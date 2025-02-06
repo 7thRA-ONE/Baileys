@@ -1,6 +1,6 @@
 {
-  "name": "baileys",
-  "version": "6.7.12",
+  "name": "twilight-bail-2.0",
+  "version": "6.7.13",
   "description": "WhatsApp API",
   "keywords": [
     "whatsapp",
@@ -51,7 +51,7 @@
     "cache-manager": "^5.7.6",
     "futoin-hkdf": "^1.5.1",
     "libphonenumber-js": "^1.10.20",
-    "libsignal": "github:WhiskeySockets/libsignal-node",
+   "libsignal": "git+https://gitlab.com/IRON-M4N/libsignal.git",
     "lodash": "^4.17.21",
     "music-metadata": "^7.12.3",
     "node-cache": "^5.1.2",
